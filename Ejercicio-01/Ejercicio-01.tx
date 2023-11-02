@@ -1,0 +1,23 @@
+1. Implemente su propia función map
+2. Implemente su propia función find
+3. Implemente su propia función filter
+4. Implemente su propia función reduce
+5. Queremos realizar cálculos usando funciones y obtener los resultados. Los requerimientos
+son:
+
+• Debe haber una función para cada número del 0 (”cero”) al 9 (”nueve”)
+• Debe haber una función para cada una de las siguientes operaciones matemáticas:
+suma, resta, multiplicación y división
+
+• Cada cálculo consta exactamente de una operación y dos argumentos (números)
+
+• La función externa representa el operando izquierdo, la función interna representa el
+operando derecho
+
+• La división debe ser una división entera. Por ejemplo, el resultado debería ser 2 y no
+2.666666...
+
+seven(times(five())); // debe devolver 35
+four(plus(nine())); // debe devolver 13
+eight(minus(three())); // debe devolver 5
+six(dividedBy(two())); // debe devolver 3

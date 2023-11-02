@@ -1,0 +1,8 @@
+1 Crear una clase para representar a las figuras geométricas, que permita calcular el perimetro
+y el area
+
+2 Crear una clase que represente a los cuadrados.
+
+3 Crear una clase que represente a los círculos.
+
+4 Aplicando polimorfismo, muestre un ejemplo utilizando las clases anteriores.

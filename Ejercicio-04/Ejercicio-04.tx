@@ -1,0 +1,14 @@
+Componentes
+
+Vamos a armar la aplicacion de TATETI. Para ello vamos a necesitar los siguientes componentes:
+
+• Un componente que represente la grilla del juego de 9x9
+
+• Un componente que represente a la celda donde puede haber una X o un O
+
+El estado de las celdas las mantiene el componente grilla el cual le pasa el estado al componente
+celda para que visualice un X o O.
+Al asignar un estado a la celda, el componente debe avisar a la grilla del cambio.
+Si selecciono por primera vez una de las celdas se cambiara el estado a X o O solamente si no
+habia sido seleccionada antes.
+La secuencia de X y O se da de forma alternada.
